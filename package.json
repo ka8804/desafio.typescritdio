@@ -1,0 +1,14 @@
+{
+  "name": "respondendo-desafio",
+  "version": "1.0.0",
+  "description": "projeto para responder desafios dio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript;typescript"
+  ],
+  "author": "Karen Santos",
+  "license": "ISC"
+}
